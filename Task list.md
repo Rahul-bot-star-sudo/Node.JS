@@ -1,7 +1,49 @@
 Bilkul. Agar tumhara goal **WhatsApp-like live chat app banana + saath me REST, GraphQL, WebSocket, gRPC, RabbitMQ, Redis, multiple DB, microservices aur monitoring practically seekhna** hai, to project ko ekdum step-by-step build karna best rahega.
 
 Sab technologies **ek saath mat lagana**. Pehle working application banao, phir architecture ko gradually distributed banao.
+```
+Month 1
+├── Planning
+├── Git + Monorepo
+├── PostgreSQL
+├── Auth
+└── User Service
 
+Month 2
+├── API Gateway
+├── React
+├── Chat Service
+├── MongoDB
+└── WebSocket
+
+Month 3
+├── 1-to-1 Chat
+├── Redis
+├── RabbitMQ
+├── Notifications
+└── Message status
+
+Month 4
+├── GraphQL
+├── gRPC
+├── Groups
+├── Media
+└── Search
+
+Month 5
+├── Security
+├── Testing
+├── Docker
+├── Prometheus
+└── Grafana
+
+Month 6
+├── k6 load testing
+├── Find bottlenecks
+├── Optimization
+├── Production architecture
+└── Documentation + cleanup
+```
 # 🚀 Complete Project Roadmap
 
 ```text
